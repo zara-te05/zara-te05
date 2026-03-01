@@ -59,22 +59,17 @@ Soy un **desarrollador backend** apasionado por construir sistemas robustos y es
 
 ---
 
-## 📊 Lenguajes & Habilidades
+## 📊 GitHub Stats
 
-```text
-Python          ████████████████████░░░░   82%
-SQL             ███████████████░░░░░░░░░   60%
-C#              ████████████░░░░░░░░░░░░   48%
-HTML / CSS      ████████░░░░░░░░░░░░░░░░   32%
-Bash / Linux    ██████░░░░░░░░░░░░░░░░░░   24%
-```
+<div align="center">
 
-```text
-Backend         ██████████████████████░░   90%
-Machine Learning████████████████░░░░░░░░   64%
-Data Analysis   ███████████████░░░░░░░░░   60%
-DevOps / Docker ████████░░░░░░░░░░░░░░░░   32%
-```
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zara-te05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/zara-te05)
+&nbsp;
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zara-te05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/zara-te05)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=zara-te05&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
