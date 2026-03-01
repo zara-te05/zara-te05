@@ -1,16 +1,6 @@
-```
-██████╗ ██╗███████╗ ██████╗  ██████╗     ███████╗
-██╔══██╗██║██╔════╝██╔════╝ ██╔═══██╗    ╚════██║
-██║  ██║██║█████╗  ██║  ███╗██║   ██║        ██╔╝
-██║  ██║██║██╔══╝  ██║   ██║██║   ██║       ██╔╝
-██████╔╝██║███████╗╚██████╔╝╚██████╔╝       ██║
-╚═════╝ ╚═╝╚══════╝ ╚═════╝  ╚═════╝        ╚═╝
-```
-
 <div align="center">
 
-# Diego Zárate
-### Backend Developer · Python · FastAPI · Data & AI
+### `Backend Developer · Python · FastAPI · Data & AI`
 
 [![GitHub followers](https://img.shields.io/github/followers/zara-te05?label=Followers&style=flat-square&color=0e75b6)](https://github.com/zara-te05)
 [![Profile Views](https://komarev.com/ghpvc/?username=zara-te05&label=Profile+Views&color=0e75b6&style=flat-square)](https://github.com/zara-te05)
@@ -69,19 +59,22 @@ Soy un **desarrollador backend** apasionado por construir sistemas robustos y es
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Lenguajes & Habilidades
 
-<div align="center">
+```text
+Python          ████████████████████░░░░   82%
+SQL             ███████████████░░░░░░░░░   60%
+C#              ████████████░░░░░░░░░░░░   48%
+HTML / CSS      ████████░░░░░░░░░░░░░░░░   32%
+Bash / Linux    ██████░░░░░░░░░░░░░░░░░░   24%
+```
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zara-te05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/zara-te05)
-&nbsp;
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zara-te05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/zara-te05)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=zara-te05&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-> ℹ️ Las gráficas se generan automáticamente una vez que el README esté en tu repositorio de perfil `zara-te05/zara-te05`.
+```text
+Backend         ██████████████████████░░   90%
+Machine Learning████████████████░░░░░░░░   64%
+Data Analysis   ███████████████░░░░░░░░░   60%
+DevOps / Docker ████████░░░░░░░░░░░░░░░░   32%
+```
 
 ---
 
