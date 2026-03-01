@@ -63,11 +63,11 @@ Soy un **desarrollador backend** apasionado por construir sistemas robustos y es
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zara-te05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/zara-te05)
+![GitHub Stats](./assets/stats.svg)
 &nbsp;
-[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zara-te05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/zara-te05)
+![Top Languages](./assets/langs.svg)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=zara-te05&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](./assets/streak.svg)
 
 </div>
 
