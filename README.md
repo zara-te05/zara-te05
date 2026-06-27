@@ -28,7 +28,7 @@ Soy un **desarrollador backend** apasionado por construir sistemas robustos y es
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Backend & APIs
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -55,11 +55,10 @@ Soy un **desarrollador backend** apasionado por construir sistemas robustos y es
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -73,59 +72,7 @@ Soy un **desarrollador backend** apasionado por construir sistemas robustos y es
 
 ---
 
-## 📌 Proyectos Destacados
-
-<div align="center">
-
-| # | Proyecto | Stack | Descripción |
-|---|----------|-------|-------------|
-| 📚 | **Academic Performance Predictor** | FastAPI · scikit-learn · PostgreSQL | Predicción de rendimiento académico y riesgo de deserción con modelos ML |
-| 📈 | **Financial Assistant & Stock Predictor** | Streamlit · LSTM · yfinance | Portafolio + predicción bursátil con redes LSTM y visualización interactiva |
-| 🎮 | **2D Fighting Game** | Python · Pygame | Juego universitario de peleas con mecánicas y físicas personalizadas |
-
-</div>
-
-<details>
-<summary><b>📚 Academic Performance Prediction System — ver más</b></summary>
-<br>
-
-**Stack:** `FastAPI` · `Python` · `scikit-learn` · `PostgreSQL` · `SQLAlchemy`
-
-- API REST para análisis de rendimiento estudiantil con endpoints bien definidos
-- Modelos predictivos para estimar éxito académico o riesgo de abandono escolar
-- Arquitectura limpia con separación de responsabilidades y diseño extensible
-- Pipeline de datos con preprocesamiento y validación automatizada
-
-</details>
-
-<details>
-<summary><b>📈 Financial Assistant & Stock Predictor — ver más</b></summary>
-<br>
-
-**Stack:** `Streamlit` · `Python` · `yfinance` · `TensorFlow/Keras` · `Pandas`
-
-- Gestión de portafolios: agregar/eliminar acciones y calcular ganancias
-- Predicción de precios bursátiles con redes neuronales LSTM
-- Dashboard interactivo con visualizaciones de datos en tiempo real
-- Análisis técnico automatizado de tendencias del mercado
-
-</details>
-
-<details>
-<summary><b>🎮 2D Fighting Game — ver más</b></summary>
-<br>
-
-**Stack:** `Python` · `Pygame`
-
-- Proyecto universitario inspirado en South Park
-- Mecánicas de combate con físicas y colisiones personalizadas
-- Sistema de animaciones y gestión eficiente de sprites
-
-</details>
-
----
-
-## 🌱 Actualmente Aprendiendo
+## Actualmente Aprendiendo
 
 ```
 📦  Advanced FastAPI patterns & async programming
