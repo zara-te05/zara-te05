@@ -20,13 +20,13 @@ class DiegoZarate:
         self.education = "Computer Science Student"
         self.location  = "México"
         self.languages = ["Python", "C#", "SQL"]
-        self.focus     = ["AI/ML", "Backend Architecture", "Data Systems"]
+        self.focus     = ["Backend Architecture", "Data Systems"]
         self.currently = "Learning advanced FastAPI & Docker orchestration"
-        self.open_to   = ["Backend projects", "Data Science", "AI/ML"]
+        self.open_to   = ["Backend projects", "Data Science"]
         self.quote     = "Build systems that make sense — then make them better."
 ```
 
-Soy desarrollador backend, apasionado por construir sistemas robustos y escalables, con un fuerte enfoque en **análisis de datos**, **inteligencia artificial** y **tecnologías educativas**. Me especializo en diseñar APIs limpias, arquitectar bases de datos relacionales e implementar modelos de machine learning para resolver problemas del mundo real.
+Soy desarrollador backend, apasionado por construir sistemas robustos y escalables, con un fuerte enfoque en **análisis de datos**, **backend** y **tecnologías educativas**. Me especializo en diseñar sistemas limpios, arquitectar bases de datos relacionales para resolver problemas del mundo real.
 
 ---
 
@@ -46,8 +46,6 @@ Soy desarrollador backend, apasionado por construir sistemas robustos y escalabl
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 **Databases**
 
